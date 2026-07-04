@@ -29,6 +29,14 @@ I made small queries on the PhilPapers and Enron subsets. I generated train and 
 - Generated train and validation metric profiles across smaller datasets
 - Replicated baseline paper findings: true pre-train matches generated strong inference signals, while validation benchmark splits correctly returned high p-values (no false positives)
 
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="images/LLM_DI_Replication_Results.png" alt="LLM Dataset Inference Replication Results" width="500px" />
+    </td>
+  </tr>
+</table>
+
 ## Notes
 
 

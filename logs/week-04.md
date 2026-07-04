@@ -30,6 +30,17 @@ We executed evaluation sweeps on various Pythia size boundaries (pythia-70m, pyt
 - Confirmed that surrogate-LM suspect sets (via GPT-Neo and OPT) similarly trigger false membership
 - Achieved statistical verification significance limits (p_5, p_10, p_20) in PhilPapers false-claim sweeps, while random baselines remained insignificant.
 
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="images/false_claim_pvalue_curves.png" alt="False Claim P-Value Curves" width="450px" />
+    </td>
+    <td align="center">
+      <img src="images/false_claim_earliest_significant.png" alt="False Claim Earliest Significant" width="450px" />
+    </td>
+  </tr>
+</table>
+
 ## Notes
 
 
