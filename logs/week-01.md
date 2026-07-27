@@ -1,4 +1,4 @@
-**Student:** Shaheer Abbasi 
+**Student:** Shaheer Abbasi  
 **Mentor:** Dr. Michael Reiter  
 
 # Week 1
